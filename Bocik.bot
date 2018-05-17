@@ -1,0 +1,15 @@
+{
+    "name": "Bocik",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "00203550-59df-11e8-8ca3-598532019cb0",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:8080/api/messages",
+            "name": "http://localhost:8080/api/messages"
+        }
+    ]
+}

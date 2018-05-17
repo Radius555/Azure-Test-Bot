@@ -1,0 +1,14 @@
+{
+    "name": "yes",
+    "secretKey": "b9f3e6c0bb7277521b7eb30fcc655ba3af63885d921c176a542d32e3528df771f0c57bdae36ce358bc93fe8ec9ae127b",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "yes",
+            "id": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "BocikTeścik",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "36d332f0-59df-11e8-8ca3-598532019cb0",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}
